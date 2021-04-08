@@ -1,0 +1,2 @@
+pytlegrambotapi
+subprocess
