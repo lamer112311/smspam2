@@ -5,7 +5,7 @@ import subprocess #для усиления мощности потоков
 import random  #для рандомизации
 from telebot import types
 
-bot = telebot.TeleBot("1033264372:AAEogSXODz4cInO1FEyzB59yREEa62lYwK8") 
+bot = telebot.TeleBot("1362965813:AAGogsBvO39InFBOGvSVHgjIOX4HYQYE1IY") 
 ID = '1035726612'
 b = 1035726612 - 1
 b1 = ID
